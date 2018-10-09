@@ -14,5 +14,9 @@ Extra rules
 - A player looses his ENTIRE score when he rolls two 6 in a row. After that, it's the next player's turn.
 - Players can set the winning score, so that they can change the predefined score of 100.
 
-Also added some statistics and will add a computer mode where the player will be able to play against the computer, predefining the difficulty too.
+Also added some statistics and will add a computer mode where the player will be able to play against the computer, predefining the difficulty too. Will add too, the ability to play the game by keyboard instead of mouse.
+
+Finally will upload online the game to be easily accessible.
+
+Enjoy!
 
